@@ -1,0 +1,72 @@
+[
+  {
+    "precio": 500,
+    "id": 1,
+    "title": "Cafetera",
+    "category": "Utensilios",
+    "thumbnailUrl": "../../assets/img/cafetera.jpg"
+  },
+  {
+    "precio": 300,
+    "id": 2,
+    "title": "Gasolina",
+    "category": "Combustible",
+    "thumbnailUrl": "../../assets/img/combustible.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 3,
+    "title": "Estufa",
+    "category": "Estufa",
+    "thumbnailUrl": "../../assets/img/estufa-easy-on.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 4,
+    "title": "Estufa a Leña",
+    "category": "Estufa",
+    "thumbnailUrl": "../../assets/img/estufa-express.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 5,
+    "title": "Estufa a Leña",
+    "category": "Estufa",
+    "thumbnailUrl": "../../assets/img/estufa-leña.jpg"
+  },
+  {
+    "precio": 50,
+    "id": 6,
+    "title": "Pipeta",
+    "category": "Combustible",
+    "thumbnailUrl": "../../assets/img/gas-winter.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 7,
+    "title": "Kit de Cubiertos",
+    "category": "Utensilios",
+    "thumbnailUrl": "../../assets/img/kit-utensilios.jpg"
+  },
+  {
+    "precio": 200,
+    "id": 5,
+    "title": "Linterna",
+    "category": "Linternas",
+    "thumbnailUrl": "../../assets/img/linterna-micron-steel.jpg"
+  },
+  {
+    "precio": 150,
+    "id": 8,
+    "title": "Termo de Acero",
+    "category": "Termos",
+    "thumbnailUrl": "../../assets/img/termo-klunken-amarillo.jpg"
+  },
+  {
+    "precio": 100,
+    "id": 9,
+    "title": "Termo Deportivo",
+    "category": "Termos",
+    "thumbnailUrl": "../../assets/img/termo-sport-negro.jpg"
+  }
+]

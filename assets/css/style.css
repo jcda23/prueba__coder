@@ -1,0 +1,95 @@
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: #240229 !important;
+  opacity: 1 !important;
+  z-index: 999;
+}
+
+.navbar-nav .nav-item>a {
+  color: rgb(238, 243, 235) !important;
+}
+
+.navbar-dark .navbar-toggler {
+  outline: 1px solid white !important;
+  color: white !important;
+  margin-bottom: 10px !important;
+}
+
+.portfolio .header-portfolio {
+  padding: 40px 0;
+}
+
+.portfolio .header-portfolio .portfolio-form {
+  padding-top: 6rem;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.portfolio .header-portfolio .portfolio-form .search-bar {
+  width: 680px;
+  height: 40px;
+  line-height: 40px;
+  background: #fff;
+  border-radius: 100px;
+
+  text-align: center;
+  font-size: 16px;
+}
+
+.portfolio .header-portfolio .categories {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.portfolio .header-portfolio .categories a {
+  color: #9b9b9b;
+  margin: 10px 20px;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.portfolio .header-portfolio .categories a.activo {
+  color: #000;
+}
+
+.visible {
+  display: block;
+  transition: all 0.3s ease-in-out;
+  order: 1;
+}
+
+.hidden {
+  display: none;
+}
+
+.table {
+  margin-top: 8rem;
+}
+
+#buy__car .navbar__car {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #240229;
+}
+
+#buy__car a {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #240229;
+}
+
+* a {
+  text-decoration: none;
+}
+
+.table {
+  width: 100%;
+
+}
