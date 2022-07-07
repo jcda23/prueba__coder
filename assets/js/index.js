@@ -18,7 +18,7 @@ cards.addEventListener("click", (e) => {
 let data;
 const fetchData = async () => {
   try {
-    const response = await fetch("../json/api.json");
+    const response = await fetch("api.json");
     const data = await response.json();
     return data;
   } catch (error) {
